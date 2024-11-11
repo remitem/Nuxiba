@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.Post {
+    font-family: "Quicksand", sans-serif;
+    color: #6e2c00;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+.posttitulo{
+    font-size: 15px;
+    margin: 0px 0px 0px 10px;
+}

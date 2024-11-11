@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.todotitulo{
+    font-family: "Quicksand", sans-serif;
+    color: #6e2c00;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.todotexto{
+    font-size: 20px;
+    margin: 10px 0px 0px 0px;
+}
+
+.VoF{
+    color: crimson;
+}
+
+.cajas {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.cajadetexto {
+    background-color: white;
+    display: flex;
+    height: 5%;
+}
+
